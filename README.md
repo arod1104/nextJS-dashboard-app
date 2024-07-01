@@ -6,6 +6,11 @@ This repository contains the final result of the Next.js full web application co
 
 Click [here](https://nextjs-dashboard-lime-tau-41.vercel.app/) to view the live demo.
 
+#### _The course provided login credentials are:_
+
+- Email: `user@nextmail.com`
+- Password: `123456`
+
 ## Getting Started
 
 If you would like to run this project locally, you can do so by following these steps:
