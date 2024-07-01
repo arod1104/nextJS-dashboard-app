@@ -21,7 +21,7 @@ If you would like to run this project locally, you can do so by following these 
 3.  Run `pnpm i` in the project directory command line to install the necessary dependencies
 4.  Run `pnpm dev` to start the development server
 
-_Note: You will need to include your own .env file with the following variables:_
+**_Note: You will need to include your own .env file with the following variables and add in your secrets provided by your Vercel project dashboard:_**
 
 ```# Copy from .env.local on the Vercel dashboard
 # https://nextjs.org/learn/dashboard-app/setting-up-your-database#create-a-postgres-database
